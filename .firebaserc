@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "vite-ssr-react-test"
+  }
+}
